@@ -1,0 +1,12 @@
+List of the screens not seen
+1. the Comic Review screen
+	it can have how the comic will be read, if they are to read it on the website 
+2. the payment screen
+	it will consist of the payment flow
+3. the gallery or the store screen of the comics
+	it can consist on how the comics will show 
+	when they are being searched for 
+4. the user's sign up flow
+	it can also have the dashboard view 
+5. the dashboard screen , if there is any
+6. the event screen , how will event be displayed 
