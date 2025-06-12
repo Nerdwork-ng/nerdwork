@@ -177,3 +177,50 @@ Each service contains a `README.md` with API contract, local dev, and deployment
 * Nerdwork Platform Architecture (0–10 k Users) – internal PDF.
 
 > **Last updated:** 11 June 2025 (commit `docs/initial-unified`) – Maintainers: *@team-platform-engineering*.
+
+---
+
+## 🧩 Pull Request Template
+
+To ensure professional and consistent contributions across the Nerdwork+ Platform, all contributors should use the following pull request format:
+
+```md
+# 📝 Description
+<!--- Provide a clear and concise description of your pull request -->
+This PR adds/updates ...
+
+# 📌 Changes Proposed
+
+## 🔍 What were you told to do?
+<!-- Describe the task, requirement, or feature you were assigned -->
+
+## 🛠 What did you do?
+<!-- Describe your actual implementation, files changed, services affected -->
+
+# 🔄 Types of changes
+<!--- Put an `x` in the relevant boxes to indicate your changes -->
+
+- [ ] Bug fix (non-breaking change that fixes an issue)
+- [ ] New feature (non-breaking change that adds functionality)
+- [ ] Breaking change (would cause existing features to break)
+- [ ] Chore (project maintenance, CI/CD, docs, etc.)
+
+# ✅ Check List
+<!-- Go over all the following points and mark those that apply -->
+
+- [x] My changes follow the code style and standards of this project.
+- [x] My changes do not include plagiarized content.
+- [x] The PR title and description clearly explain the purpose and scope.
+- [x] I am making a pull request against the **dev branch** (not `main`).
+- [x] My commit message follows semantic commit conventions (e.g. `docs:`, `feat:`).
+- [x] My code additions pass linting (`pnpm lint`) and unit tests.
+- [x] I am only modifying the files assigned to me.
+
+---
+
+# 📷 Screenshots (if applicable)
+<!-- Add screenshots of the affected components, UI views, or test logs -->
+
+- Live preview / working component:
+- Linting check:
+```
